@@ -13,12 +13,12 @@
 </div>
 <br>
 
-<h2 align="center">Hi there!👋 I am ***Hammed Iyiola Jimoh***, a passionate software engineer.</h2>
+<h2 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h2>
 
 ---
 
 <div align="center">
-  <img src="./picture/scalability-benefits.svg" max-height="300"/>
+  <img src="./picture/scalability-benefits.svg" max-height="200"/>
 </div>
 
 <br>
