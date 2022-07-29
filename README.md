@@ -52,8 +52,8 @@
    
    <br>
 <p>🌱 I’m currently learning</p><img src="./picture/django.svg" width=30 >
-<p>🌱 I’m currently learning</p><img src="./picture/expressjs.png" width=30 >
-<p>🌱 I’m currently learning</p><img src="./picture/React-icon.svg.png" width=30 >
+<p>🌱 I’m currently learning</p><img src="./picture/nodejs-icon.svg" width=30 >
+<p>🌱 I’m currently learning</p><img src="./picture/react-2.svg" width=30 >
 
 ---
 
