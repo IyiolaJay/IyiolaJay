@@ -2,7 +2,7 @@
 
 <div align="">
 <div id="header" align="center">
-    <img src="./picture/me.png" height="200" />
+    <img src="./picture/me2.png" height="200" />
 </div>
 <br>
 
@@ -52,7 +52,7 @@
 <p>🌱 I’m currently learning</p>
 <img src="./picture/django.svg" width=30 >
 <img src="./picture/nodejs-icon.svg" width=30 >
-<img src="./picture/react-2.svg">
+<img src="./picture/react-2.svg" width=30 >
 
 ---
 
