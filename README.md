@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src="./picture/scalability-benefits.svg" max-height="200"/>
+  <img src="./picture/scalability-benefits.svg" max-height="100"/>
 </div>
 
 <br>
