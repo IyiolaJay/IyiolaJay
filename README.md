@@ -31,8 +31,6 @@
 <p>
  I am hardworking developer with problem solving skills, fast and creative thinking ability. I'm always open minded and eager to learn new things and participate in open source or any form of projects in relation to my field of specialization (i.e backend engineering)
 </p>
- 
-
 
   <br>
 
@@ -51,9 +49,10 @@
   <img src="./picture/vscode.svg" width=30 >
    
    <br>
-<p>🌱 I’m currently learning</p><img src="./picture/django.svg" width=30 >
-<p>🌱 I’m currently learning</p><img src="./picture/nodejs-icon.svg" width=30 >
-<p>🌱 I’m currently learning</p><img src="./picture/react-2.svg" width=30 >
+<p>🌱 I’m currently learning</p>
+<img src="./picture/django.svg" width=30 >
+<img src="./picture/nodejs-icon.svg" width=30 >
+<img src="./picture/react-2.svg">
 
 ---
 
