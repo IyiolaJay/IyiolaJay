@@ -13,13 +13,9 @@
 </div>
 <br>
 
-<h2 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h2>
-
+<h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h4>
+<p>✈️ How to reach me: jimoh.iyiola11@gmail.com</p>
 ---
-
-<div align="center">
-  <img src="./picture/scalability-benefits.svg" height="300"/>
-</div>
 
 <br>
 
