@@ -14,7 +14,10 @@
 <br>
 
 <h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h4>
-✈️ How to reach me: ` jimoh.iyiola11@gmail.com `
+✈️ How to reach me: 
+    ```
+    jimoh.iyiola11@gmail.com
+    ```
 
 ---
 
