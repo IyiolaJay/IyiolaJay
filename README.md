@@ -24,7 +24,6 @@
 
 <br>
  
-<p>I am from Nigeria</p>
 <p>
  I am hardworking developer with problem solving skills, fast and creative thinking ability. I'm always open minded and eager to learn new things and participate in open source or any form of projects in relation to my field of specialization (i.e backend engineering)
 </p>
