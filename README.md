@@ -14,7 +14,7 @@
 <br>
 
 <h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h4>
-    ✈️ How to reach me: <code>jimoh.iyiola11@.gmail.com</code>
+    ✈️ How to reach me: <code>jimoh.iyiola11@gmail.com</code>
     
 ---
 
@@ -43,11 +43,12 @@
   <img src="./picture/postgresql.svg" width=30 >
   <img src="./picture/docker.svg" width=30 >
   <img src="./picture/vscode.svg" width=30 >
+ <img src="./picture/nodejs-icon.svg" width=30 >
+
    
    <br>
 <p>🌱 I’m currently learning</p>
 <img src="./picture/django.svg" width=30 >
-<img src="./picture/nodejs-icon.svg" width=30 >
 <img src="./picture/react-2.svg" width=30 >
 
 ---
