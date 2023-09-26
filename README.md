@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a passionate software engineer.</h4>
+<h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a backend and mobile engineer.</h4>
     ✈️ How to reach me: <code>jimoh.iyiola11@gmail.com</code>
     
 ---
@@ -25,11 +25,19 @@
 <br>
  
 <p>
- I am hardworking developer with problem solving skills, fast and creative thinking ability. I'm always open minded and eager to learn new things and participate in open source or any form of projects in relation to my field of specialization (i.e backend engineering)
+    I don't just write codes, I solve problems.
 </p>
 
   <br>
 
+   
+<p>
+    My github commits might not show how committed I am, but here is a proof:
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/d9f6b977-a894-4159-b731-f591640ce840.svg)](https://wakatime.com/@d9f6b977-a894-4159-b731-f591640ce840)
+
+---
 ---
 
 ### **🛠️Language and Tools :**
@@ -47,11 +55,9 @@
 
    
    <br>
-<p>🌱 I’m currently learning</p>
-<img src="./picture/django.svg" width=30 >
-<img src="./picture/react-2.svg" width=30 >
 
----
+    
+
 
 ### **🔥Stats:**
 
