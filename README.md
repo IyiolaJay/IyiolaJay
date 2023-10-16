@@ -13,8 +13,8 @@
 </div>
 <br>
 
-<h4 align="center">Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a backend and mobile engineer.</h4>
-    ✈️ How to reach me: <code>jimoh.iyiola11@gmail.com</code>
+<p> <h4 align="center"> Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a backend and mobile engineer. </h4> </p>
+    <p>✈️ How to reach me: <code> jimoh.iyiola11@gmail.com </code> </p>
     
 ---
 
