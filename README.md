@@ -39,25 +39,7 @@
 
 ---
 ---
-
-### **🛠️Language and Tools :**
-
-  <br>
-
-  <img src="./picture/html5.svg" width=30 >
-  <img src="./picture/css.svg" width=30 >
-  <img src="./picture/js.svg" width=30 >
-  <img src="./picture/python.svg" height=30 >
-  <img src="./picture/postgresql.svg" width=30 >
-  <img src="./picture/docker.svg" width=30 >
-  <img src="./picture/vscode.svg" width=30 >
- <img src="./picture/nodejs-icon.svg" width=30 >
-
-   
-   <br>
-
     
-
 
 ### **🔥Stats:**
 
