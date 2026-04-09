@@ -13,33 +13,20 @@
 </div>
 <br>
 
-<h4 align="center"> Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a backend and mobile engineer. </h4>
+<h4 align="center"> Hi there!👋 I am <strong>Hammed Iyiola Jimoh</strong>, a backend and ai engineer. </h4>
     <p>✈️ How to reach me: <code> jimoh.iyiola11@gmail.com </code> </p>
     
 ---
-
-<br>
-
-### **👨‍💻About Me :**
-
-<br>
- 
-<p>
-    I don't just write codes, I solve problems.
-</p>
-
-  <br>
-
-   
 <p>
     My github commits might not show how committed I am, but here is a proof:
 </p>
+<br>
+
 
 [![wakatime](https://wakatime.com/badge/user/d9f6b977-a894-4159-b731-f591640ce840.svg)](https://wakatime.com/@d9f6b977-a894-4159-b731-f591640ce840)
 
 ---
 ---
-    
 
 ### **🔥Stats:**
 
