@@ -17,14 +17,8 @@
     <p>✈️ How to reach me: <code> jimoh.iyiola11@gmail.com </code> </p>
     
 ---
-<p>
-    My github commits might not show how committed I am, but here is a proof:
-</p>
 <br>
-
-
 [![wakatime](https://wakatime.com/badge/user/d9f6b977-a894-4159-b731-f591640ce840.svg)](https://wakatime.com/@d9f6b977-a894-4159-b731-f591640ce840)
-
 ---
 ---
 
